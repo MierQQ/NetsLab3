@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
-
+//
 public class App {
     static public void main(String[] args) {
         int radius = 1000;
